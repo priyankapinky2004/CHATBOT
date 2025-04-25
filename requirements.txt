@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+PyMuPDF
+langchain-google-genai
+langchain-huggingface
+tf-keras

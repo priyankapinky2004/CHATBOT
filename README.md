@@ -34,4 +34,14 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run the app
-python app.py
+```
+![WhatsApp Image 2025-04-25 at 16 39 14_78811abb](https://github.com/user-attachments/assets/e6b4eec2-768e-46a3-9e55-8a761d499d72)
+
+---
+
+Let me know if:
+- You want a GIF instead of a screenshot
+- You'd like to add badges (like Python version, license, etc.)
+- You need a `demo` section with a live link
+
+I'll tweak it as you need!python app.py
